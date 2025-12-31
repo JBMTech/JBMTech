@@ -17,7 +17,7 @@
 - 🤓 Apasionado por la gestión de memoria, el código eficiente y los componentes internos del software.
 - 💬 Pregúntame sobre programación en C, Git o entornos Linux.
 - 🤝 Abierto a oportunidades de desarrollo júnior.
-- No dudes en contactarme en [LinkedIn](https://www.linkedin.com/) 🏆.
+- No dudes en contactarme en [LinkedIn](https://www.linkedin.com/in/jairo-alonso-buleje-matta-25480323a/) 🏆.
 
 <br>
 
