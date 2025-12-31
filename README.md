@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jairo Alonso</h1>
-<h3 align="center">Desarrollador DAM y autodidacta | Actualmente estudiando en 42Madrid</h3>
+<h3 align="center">Desarrollador DAM y autodidacta | Actualmente estudiante en 42Madrid</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JBMTech&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <!--horizontal divider(gradiant)-->
@@ -38,10 +38,23 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-![](https://github-readme-stats.vercel.app/api?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<a href="https://github.com/JBMTech">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=tokyonight" height="260"/>
+  <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JBMTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBMTech&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
+<br>
+
+<!--![](https://github-readme-stats.vercel.app/api?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
+<!--![](https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=shadow_green&hide_border=false)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JBMTech&bg_color=1a1b26&color=c0caf5&line=7dcfff&point=7aa2f7&hide_border=true" />
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
