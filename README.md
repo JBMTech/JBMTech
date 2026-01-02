@@ -39,11 +39,11 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-<a href="https://github.com/JBMTech">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=tokyonight" height="260"/>
-  <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JBMTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBMTech&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+  <a href="https://github.com/JBMTech">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=tokyonight" height="260"/>
+    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JBMTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBMTech&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </p>
 
 <br>
