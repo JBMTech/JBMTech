@@ -40,20 +40,16 @@
 
 <p align="center">
   <a href="https://github.com/JBMTech">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=tokyonight" height="260"/>
-    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JBMTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBMTech&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="260" src="https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=algolia"/>
+    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JBMTech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="260" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JBMTech&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <br>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
-<!--![](https://nirzak-streak-stats.vercel.app/?user=JBMTech&theme=shadow_green&hide_border=false)<br/>-->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBMTech&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JBMTech&bg_color=1a1b26&color=c0caf5&line=7dcfff&point=7aa2f7&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JBMTech&bg_color=050F2C&color=FFFFFF&line=00AEFF&point=00E676&hide_border=true" />
 </p>
 
 <!--horizontal divider(gradiant)-->
